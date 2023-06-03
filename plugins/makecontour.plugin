@@ -1,0 +1,10 @@
+[Core]
+Name = Make contour
+Module = makecontour
+
+[Documentation]
+Author = leonel hernandez
+Version = 0.1
+Website = https://github.com/leonelhs/labelme-plugins
+Description = This plugin connects to an AI webservice helper to segment persons
+
